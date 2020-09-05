@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+Hi!
+
+My name's Michał Murawski, I like HTML5 and CSS3.
+That's it. For now:)
